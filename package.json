@@ -1,6 +1,6 @@
 {
   "name": "gopherror",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Go-like error handling for JavaScript",
   "main": "dist/index.js",
   "repository": "https://github.com/jackHedaya/gopherr",
