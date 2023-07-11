@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Go-like error handling for JavaScript",
   "main": "dist/index.js",
-  "repository": "https://github.com/jackHedaya/gopherr",
+  "repository": "https://github.com/jackHedaya/gopherror",
   "author": "Jack Hedaya <jackehedaya@gmail.com>",
   "license": "MIT",
   "private": false,
@@ -28,6 +28,7 @@
     "error",
     "handling",
     "golang",
+    "gopherror",
     "gopherr"
   ]
 }
