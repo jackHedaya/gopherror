@@ -15,7 +15,6 @@
   },
   "scripts": {
     "build": "tsc",
-    "publish": "npm publish",
     "prepublish": "yarn build",
     "test": "jest"
   },
